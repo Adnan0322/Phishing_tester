@@ -67,7 +67,7 @@ Open your browser and visit:
 	http://127.0.0.1:5000
 
 
-SCREENSHOTS :
+
 
 
 This project is licensed under the terms specified in the LICENSE file.
@@ -75,7 +75,7 @@ This project is licensed under the terms specified in the LICENSE file.
 LICENSE:
 	MIT License
 
-Copyright (c) 2026 Rajat Dubey
+Copyright (c) 2026 Md Adnan Khan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
