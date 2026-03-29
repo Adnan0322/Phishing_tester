@@ -2,11 +2,18 @@
 __pycache__/
 *.py[codz]
 *$py.class
+<<<<<<< HEAD
 myenv
 
 # C extensions
 *.so
 .env
+=======
+
+# C extensions
+*.so
+
+>>>>>>> 5b9261b5600c1e068ac72172b2debe903023627d
 # Distribution / packaging
 .Python
 build/
@@ -15,6 +22,10 @@ dist/
 downloads/
 eggs/
 .eggs/
+<<<<<<< HEAD
+=======
+lib/
+>>>>>>> 5b9261b5600c1e068ac72172b2debe903023627d
 lib64/
 parts/
 sdist/
